@@ -23,7 +23,7 @@ Lay a whole business model on one page across the nine blocks of the Business Mo
 This repository is a [Claude Code plugin](https://code.claude.com/docs/en/plugins). Add it as a marketplace source, then install:
 
 ```shell
-/plugin marketplace add REPLACE-WITH-YOUR-USERNAME/aifc-bmc-skill
+/plugin marketplace add darren295/aifc-bmc-skill
 /plugin install aifc-bmc@aifc-bmc-skill
 ```
 
