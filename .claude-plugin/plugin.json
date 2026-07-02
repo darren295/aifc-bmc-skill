@@ -1,0 +1,23 @@
+{
+  "name": "aifc-bmc",
+  "description": "Trusted Business Model Canvas — drafts all nine Business Model Canvas blocks as a confidence-labeled first draft you control, never a verdict. From AIFueledCulture.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Darren Brown",
+    "url": "https://aifueledculture.com"
+  },
+  "homepage": "https://aifueledculture.com/tools",
+  "repository": "https://github.com/darren295/aifc-bmc-skill",
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "business model canvas",
+    "bmc",
+    "strategy",
+    "osterwalder",
+    "strategyzer",
+    "business model",
+    "value proposition",
+    "startup",
+    "planning"
+  ]
+}
